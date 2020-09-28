@@ -1,0 +1,20 @@
+---
+title: "Index"
+author: "Hayley"
+date: "9/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## NTRES 6940 Collaborative And Reproducible Data Science 
+
+### Collaborative Website Building 
+
+Hayley Schroeder https://github.com/hayleyadair
+<br>
+
+Leah Nandudu 
+
