@@ -8,12 +8,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## NTRES 6940 Collaborative And Reproducible Data Science 
 
-### Collaborative Website Building 
-
-Hayley Schroeder https://github.com/hayleyadair
+## Hayley Schroeder https://github.com/hayleyadair
 <br>
 
-Leah Nandudu https://github.com/Nandudu-dotcom
+## Leah Nandudu https://github.com/Nandudu-dotcom
 
