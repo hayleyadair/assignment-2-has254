@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Leah Nandudu https://github.com/Nandudu-dotcom
 
+![I find coding can be like insect collecting--lots of near misses](whiteBugCollectorforHayley (1).png)
