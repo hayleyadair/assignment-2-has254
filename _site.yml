@@ -1,8 +1,18 @@
-output_dir: "."
+name: "assignment-2-has254"
 navbar:
+  title: "Hayley and Leah's Webstie"
   left:
     - text: "Home"
       href: index.html
     - text: "Hayley"
       href: hayley.html
+output_dir: "."
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    toc: true 
+    toc_float: true
+    
+
    
