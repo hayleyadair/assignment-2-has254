@@ -1,7 +1,6 @@
 ---
-title: "Index"
-author: "Hayley"
-date: "9/28/2020"
+title: "Home"
+
 output: html_document
 ---
 
@@ -16,5 +15,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Hayley Schroeder https://github.com/hayleyadair
 <br>
 
-Leah Nandudu 
+Leah Nandudu https://github.com/Nandudu-dotcom
 
