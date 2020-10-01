@@ -1,7 +1,6 @@
 ---
 title: "Hayley"
-author: "Hayley"
-date: "9/28/2020"
+
 output: html_document
 ---
 
