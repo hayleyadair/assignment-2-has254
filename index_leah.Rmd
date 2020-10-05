@@ -30,8 +30,44 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r setdir, echo = FALSE}
-setwd("/Users/ln242/Desktop/des")
+setwd("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/Assigment2")
 ```
 
 <br /> <br /> <br />
+
 ![](digital_agriculture-africa-me.jpg)
+
+
+<br /> <center>
+ <h3> Africa's biggest agricultural technology and credit provider </h3>
+ <br />
+ <h3>Putting women's needs first in the agricultural value chain</h3> </center>
+
+![](afr-public-spending-priorities-for-african-agriculture-productivity-growth-feature-780x439.jpg)
+
+
+![](Kenyan-farmer-picks-tea-MAIN.jpg)
+<br />
+<h3> Agriculture holds the potential to develop Africa since 80% of the population formally work in the sector. Despite its potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. <h3>
+
+<br />
+<h3>Agricultural policies currently implemented by African countries are weak and do not favor farmers. <h3>
+
+![](image-20150918-17701-mfm9vy.jpg)
+
+ <br />
+<h3>Agric-world Africa is a farmer led organization that is  non-profit.
+We advocate for farmers'rights by providing technologies and credit services.
+These are high quality services that boost agricultural procuctivity .<h3>
+
+## Field operations
+ <br />
+<h3>Uganda, Nigeria, South Africa ,Ghana, Kenya, Rwanda among others <h3>
+
+## Head office 
+ <br />
+    <h3>Plot 111-113 Namatala 
+    Mbale central city 
+    Uganda , East Africa <h3>
+    
+![](TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)  
