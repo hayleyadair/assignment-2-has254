@@ -25,12 +25,12 @@ h4.date {
 }
 </style>
 
-```{r setup, include= TRUE}
+```{r setup, include= FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r setdir, echo = FALSE}
-setwd("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/Assigment2")
+#setwd("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/Assigment2")
 ```
 
 <br /> <br /> <br />
